@@ -77,7 +77,7 @@ The frontend is implemented as a Single Page Application (SPA) with reusable com
 ### Backend
 
 ```bash
-cd backend
+cd Backend/sweetshop/sweetshop
 mvn spring-boot:run
 ````
 
@@ -92,7 +92,7 @@ http://localhost:8080
 ### Frontend
 
 ```bash
-cd frontend
+cd Frontend/sweetshop-frontend
 npm install
 npm run dev
 ```
